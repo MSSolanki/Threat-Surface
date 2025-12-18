@@ -1,0 +1,40 @@
+DarkForums[.]hn
+185.196.11.58
+
+Scan report for VPS-DFPROXY2 (185.196.11.58)
+Host is up (0.13s latency).
+Not shown: 996 filtered tcp ports (no-response), 1 filtered tcp ports (admin-prohibited)
+PORT    STATE SERVICE  VERSION
+22/tcp  open  ssh      OpenSSH 8.2p1 Ubuntu 4ubuntu0.13 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: 
+|   3072 a3:97:4f:a2:9d:05:ba:06:23:32:6a:eb:65:da:56:6c (RSA)
+|   256 4f:8c:a2:4d:dc:01:4c:b1:52:b8:37:c9:60:dc:fd:fb (ECDSA)
+|_  256 5d:56:d8:7d:1e:87:22:dc:e4:ce:52:43:be:c7:ea:10 (ED25519)
+80/tcp  open  http     nginx 1.18.0 (Ubuntu)
+|_http-server-header: nginx/1.18.0 (Ubuntu)
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+|_http-title: Did not follow redirect to https://vps-dfproxy2/
+443/tcp open  ssl/http nginx 1.18.0 (Ubuntu)
+| ssl-cert: Subject: commonName=http://darkforums.hn
+| Subject Alternative Name: DNS:http://darkforums.hn, DNS:http://darkforums.hn
+| Issuer: commonName=R13/organizationName=Let's Encrypt/countryName=US
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2025-12-05T18:41:27
+| Not valid after:  2026-03-05T18:41:26
+| MD5:     fcfa 6ebc ff00 06ce 7985 8fc6 1066 9555
+| SHA-1:   1469 92be 2d19 d4dc 1718 396c 1d5d 68f6 16cf d977
+|_SHA-256: ce3e 0bfb d2fa 6aed 75c2 aa09 fedf dce6 40dc cb2c be52 40f5 153c c7a1 19f7 a9fe
+|_http-server-header: nginx/1.18.0 (Ubuntu)
+|_http-title: DarkForums
+| http-methods: 
+|_  Supported Methods: GET HEAD POST OPTIONS
+|_http-favicon: Unknown favicon MD5: 7A572680E226479C1A84F68EC7EF2B93
+| http-robots.txt: 43 disallowed entries (15 shown)
+| /captcha.php /modcp.php /moderation.php 
+| /printthread.php /task.php /archive/ /online.php /calendar.php 
+| /reputation.php /*nextoldest* /*nextnewest* /*datecut* /*lastpost* 
+|_/*markread* /ratethread.php
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
